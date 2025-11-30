@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Cars_Api_Basic_Final": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7093",
+      "launchBrowser": false
+    }
+  }
+}
